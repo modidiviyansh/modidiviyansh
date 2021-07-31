@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning practising Figma Designs to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dmodi_be19@thapar.edu
-<p align="center">
+
+  
 ![](https://visitor-badge.glitch.me/badge?page_id=modidiviyansh)
-  </p>
+  
 
 <p align="center">
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
