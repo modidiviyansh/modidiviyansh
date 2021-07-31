@@ -12,9 +12,9 @@
   <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="wordpress-logo" height="5%" width="5%">
   <img src="https://image.flaticon.com/icons/png/512/552/552220.png" alt="ps-logo" height="5%" width="5%">
   <img src="https://image.flaticon.com/icons/png/512/270/270798.png" alt="github-logo" height="5%" width="5%">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168459.png" alt="canva-logo" height="5%" width="5%">  
-  <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cpp-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html-logo" height="5%" width="5%">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168459.png" alt="canva-logo" height="100%" width="9%">  
+  <img src="https://image.flaticon.com/icons/png/512/2305/2305897.png" alt="cpp-logo" height="5%" width="5%">
+  <img src="https://image.flaticon.com/icons/png/512/2305/2305941.png" alt="html-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="bootstrap-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java-logo" height="5%" width="5%">
