@@ -9,10 +9,10 @@
   
 
 <p align="center">
-  <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="github-logo" height="5%" width="5%">
-  <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux-logo" height="5%" width="5%">  
+  <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="wordpress-logo" height="5%" width="5%">
+  <img src="https://image.flaticon.com/icons/png/512/552/552220.png" alt="ps-logo" height="5%" width="5%">
+  <img src="https://image.flaticon.com/icons/png/512/270/270798.png" alt="github-logo" height="5%" width="5%">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168459.png" alt="canva-logo" height="5%" width="5%">  
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cpp-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css-logo" height="5%" width="5%">
