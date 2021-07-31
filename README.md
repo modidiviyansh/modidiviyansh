@@ -9,7 +9,7 @@
   
 
 <p align="center">
-  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
+  <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="python-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="github-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="linux-logo" height="5%" width="5%">  
