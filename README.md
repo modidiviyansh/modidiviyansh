@@ -25,12 +25,12 @@
   <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow-logo" height="5%" width="5%">
 </p>
 
-<p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu10&layout=compact&theme=radical" alt="lang-stats" width="48%" height="16%">
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modidiviyansh&layout=compact&theme=radical" alt="lang-stats" width="48%" height="16%">
 </p>
 
-<p align="right">
- <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu10&show_icons=true&theme=radical" alt="github-stats" width="48%" height="16%">
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=modidiviyansh&show_icons=true&theme=radical" alt="github-stats" width="48%" height="16%">
 </p>
 
 <!---
