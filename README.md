@@ -16,14 +16,10 @@
 </p>
 
 <p align="center">
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=modidiviyansh&theme=default)
-</p>
-
-<p align="right">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modidiviyansh&layout=compact&theme=radical" alt="lang-stats" width="48%" height="16%">
 </p>
 
-<p align="left">
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=modidiviyansh&show_icons=true&theme=radical" alt="github-stats" width="48%" height="16%">
 </p>
 
