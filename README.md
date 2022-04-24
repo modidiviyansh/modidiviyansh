@@ -29,6 +29,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=modidiviyansh&show_icons=true&theme=radical" alt="github-stats" width="48%" height="16%">
 </p>
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&theme=default)
 <!---
 modidiviyansh/modidiviyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
