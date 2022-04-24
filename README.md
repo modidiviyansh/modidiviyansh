@@ -17,10 +17,9 @@
   <img src="https://image.flaticon.com/icons/png/512/2305/2305941.png" alt="html-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css-logo" height="5%" width="5%">
   <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="bootstrap-logo" height="5%" width="5%">
-  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&theme=default)
- 
-
 </p>
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=modidiviyansh&theme=default)
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modidiviyansh&layout=compact&theme=radical" alt="lang-stats" width="48%" height="16%">
