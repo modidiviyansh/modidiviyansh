@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning practising Figma Designs to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dmodi_be19@thapar.edu
-<p align='center'>
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&theme=dark)
-</p>
+
 <p align="center">
   <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="wordpress-logo" height="5%" width="5%">
   <img src="https://image.flaticon.com/icons/png/512/552/552220.png" alt="ps-logo" height="5%" width="5%">
@@ -17,7 +15,9 @@
   <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="bootstrap-logo" height="5%" width="5%">
 </p>
 
+<p align="center">
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=modidiviyansh&theme=default)
+</p>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modidiviyansh&layout=compact&theme=radical" alt="lang-stats" width="48%" height="16%">
